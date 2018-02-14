@@ -1,0 +1,2 @@
+An attempt at making a Connect-4 clone for the CE in the ICE language 
+This is currently a work in progress 
