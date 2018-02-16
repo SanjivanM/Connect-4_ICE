@@ -5,5 +5,6 @@ This is currently a work in progress.
 
 An (old) GIF:
 
-https://user-images.githubusercontent.com/33943333/36184724-af3e575a-10f2-11e8-84b5-44a5effcb9d9.png
+
+![connect4 ice demo beta](https://user-images.githubusercontent.com/33943333/36291478-76d705a0-1288-11e8-8c5c-00a07f829e4b.png)
 
